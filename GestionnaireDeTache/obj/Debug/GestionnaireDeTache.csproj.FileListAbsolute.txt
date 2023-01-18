@@ -1,0 +1,12 @@
+F:\Microsoft Visual Studio 2015 Enterprise\C#\GestionnaireDeTache\GestionnaireDeTache\GestionnaireDeTache\bin\Debug\GestionnaireDeTache.exe.config
+F:\Microsoft Visual Studio 2015 Enterprise\C#\GestionnaireDeTache\GestionnaireDeTache\GestionnaireDeTache\bin\Debug\GestionnaireDeTache.exe
+F:\Microsoft Visual Studio 2015 Enterprise\C#\GestionnaireDeTache\GestionnaireDeTache\GestionnaireDeTache\bin\Debug\GestionnaireDeTache.pdb
+F:\Microsoft Visual Studio 2015 Enterprise\C#\GestionnaireDeTache\GestionnaireDeTache\GestionnaireDeTache\obj\Debug\GestionnaireDeTache.csprojResolveAssemblyReference.cache
+F:\Microsoft Visual Studio 2015 Enterprise\C#\GestionnaireDeTache\GestionnaireDeTache\GestionnaireDeTache\obj\Debug\GestionnaireDeTache.Form1.resources
+F:\Microsoft Visual Studio 2015 Enterprise\C#\GestionnaireDeTache\GestionnaireDeTache\GestionnaireDeTache\obj\Debug\GestionnaireDeTache.Properties.Resources.resources
+F:\Microsoft Visual Studio 2015 Enterprise\C#\GestionnaireDeTache\GestionnaireDeTache\GestionnaireDeTache\obj\Debug\GestionnaireDeTache.csproj.GenerateResource.Cache
+F:\Microsoft Visual Studio 2015 Enterprise\C#\GestionnaireDeTache\GestionnaireDeTache\GestionnaireDeTache\obj\Debug\GestionnaireDeTache.exe
+F:\Microsoft Visual Studio 2015 Enterprise\C#\GestionnaireDeTache\GestionnaireDeTache\GestionnaireDeTache\obj\Debug\GestionnaireDeTache.pdb
+F:\Microsoft Visual Studio 2015 Enterprise\C#\GestionnaireDeTache\GestionnaireDeTache\bin\Debug\GestionnaireDeTache.exe.config
+F:\Microsoft Visual Studio 2015 Enterprise\C#\GestionnaireDeTache\GestionnaireDeTache\obj\Debug\GestionnaireDeTache.exe
+F:\Microsoft Visual Studio 2015 Enterprise\C#\GestionnaireDeTache\GestionnaireDeTache\obj\Debug\GestionnaireDeTache.pdb
